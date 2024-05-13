@@ -36,9 +36,11 @@ export const projectNublarInfo: ModInfoType = {
         { name: "thebradqq", role: "Modeler & Texturer"},
         { name: "MX", role: "animator"},
         { name: "rodentman87", role: "programmer"},
-        { name: "elyasisly", role: "sound artist"},
+        { name: "omar_tuareg", role: "animator"},
         { name: "Mr.BizarreMegaloceros", role: "modeler"},
-        { name: "fred", role: "texturer"}
+        { name: "fred", role: "texturer"},
+        { name: "Nyfaria", role: "programmer"}
+
     ],
     image: "/images/project_nublar/squad.jpg",
     guides: [

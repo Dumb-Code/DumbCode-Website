@@ -29,12 +29,12 @@ const DumbLibraryPage = () => {
 
             <section className="mt-10">
                 <h1 className="text-3xl text-white">Requirements</h1>
-                <div className="text-neutral-500">Project Nublar Requires DumbLibary, which can be found on it&lsquo;s mod page <div className="underline inline-block"><Link href="/mods/dumblibrary" >here</Link></div>.</div>
+                <div className="text-neutral-500">Project Nublar Requires Geckolib and SmartBrainlib, which can be found on Curseforge.</div>
             </section>
 
             <section className="mt-10">
                 <h1 className="text-3xl text-white">Release Date</h1>
-                <p className="text-neutral-500">DumbCode plans to release a single beta for Project Nublar for Forge 1.16.4, after which all development will move to the lastest forge version.<br />No dates have been set for release or the beta.</p>
+                <p className="text-neutral-500">DumbCode plans to release a single beta for Project Nublar for (Neo)Forge/Fabric 1.20.1, after which all development will move to the lastest NeoForge and Fabric versions.<br />No dates have been set for release or the beta.</p>
             </section>
 
             <section className="mt-10 mb-20">

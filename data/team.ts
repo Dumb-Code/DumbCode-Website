@@ -154,12 +154,12 @@ export const currentMembers: CurrentMemberType[] = [
         ]
     },
     {
-        "name": "Elyasisly",
+        "name": "Omar_Tuareg",
         "imageName": "elyasisly.jpg",
-        "roles": ["sound_artist"],
+        "roles": ["animator"],
         "socials": [
-            { "platform": "discord", "link": "Elyasisly#5933" },
-            { "platform": "twitter", "link": "https://twitter.com/Ely27290042" },
+            { "platform": "discord", "link": "omarafrika" },
+            { "platform": "twitter", "link": "https://twitter.com/omar_tuareg" },
             { "platform": "github", "link": "https://github.com/Elysisy" }
         ]
     },
@@ -181,6 +181,24 @@ export const currentMembers: CurrentMemberType[] = [
             { "platform": "discord", "link": "Fred.#5269" },
             { "platform": "twitter", "link": "https://twitter.com/_ItzFred" },
             { "platform": "github", "link": "https://github.com/ItzFred" }
+        ]
+    },
+    {
+        "name": "Nyfaria",
+        "imageName": "nyfaria.png",
+        "roles": ["programmer"],
+        "socials": [
+            { "platform": "discord", "link": "nyfaria" },
+            { "platform": "twitter", "link": "https://twitter.com/TheNyfaria" },
+            { "platform": "github", "link": "https://github.com/Nyfaria" }
+        ]
+    },
+    {
+        "name": "ItsMeNotjames",
+        "imageName": "itsmenotjames.png",
+        "roles": ["programmer"],
+        "socials": [
+            { "platform": "discord", "link": "itsmenotjames" }
         ]
     }
 ]
