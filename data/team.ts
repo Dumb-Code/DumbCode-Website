@@ -41,18 +41,6 @@ export const primaryMembers: PrimaryMemberType[] = [
         ],
     },
     {
-        "name": "Brotat",
-        "imageName": "brotat.png",
-        "bio": "Brotat is one of the team's main texture artists for the Project Nublar Mod. He works on both the dinosaurs and non dinosaur textures in order to make sure everything flows smoothly and the mod is released at a top notch quality.",
-        "roles": ["texture_artist"],
-        "socials": [
-            { "platform": "discord", "link": "brotat" },
-            { "platform": "twitter", "link": "https://twitter.com/Sunking64" },
-            { "platform": "github", "link": "https://github.com/Brotatsun64" },
-            { "platform": "youtube", "link": "https://www.youtube.com/channel/UCGfffU8rEX43SmACBAFjUsQ" }
-        ]
-    },
-    {
         "name": "Mazikeen",
         "imageName": "mazikeen.png",
         "bio": "Mazikeen is one of the team's main texture artists, along with various asset contributions for the mod, Mazikeen is also part of the build team that is responsible for the asset showcases along with any in game builds related to the Project Nublar Mod",
@@ -63,13 +51,25 @@ export const primaryMembers: PrimaryMemberType[] = [
         ]
     },
     {
-        "name": "Hyper",
-        "imageName": "hyperion.png",
-        "bio": "Hyper is one of the animators for DumbCode. He contributes to the lifelike movement of most of the animals from Project Nublar.",
-        "roles": ["animator"],
+        "name": "Omar",
+        "imageName": "elyasisly.jpg",
+        "bio": "Omar started out with DumbCode as a sound designer, working hard to give our dinosaurs the sounds in game that you're familiar with in the movies. Since then they've developed their skills as an animator and have been pivotal in making sure that these dinosaurs look and move realistically in game.",
+        "roles": ["sound_artist", "animator"],
         "socials": [
-            { "platform": "discord", "link": "notthathyper" },
-            { "platform": "twitter", "link": "https://twitter.com/NotThatHyper" },
+            { "platform": "discord", "link": "omar_tuareg" },
+            { "platform": "twitter", "link": "https://twitter.com/Ely27290042" },
+            { "platform": "github", "link": "https://github.com/Elysisy" }
+        ]
+    },
+    {
+        "name": "ShadowTekStudio",
+        "imageName": "shadowtek.jpg",
+        "bio": "Shadow started with DumbCode in 2025, his main roles have been taking our ambitious plans and legacy codebase and updating it to the latest Minecraft versions so that you can play the beta along side your other favorite mods.",
+        "roles": ["programmer"],
+        "socials": [
+            { "platform": "discord", "link": "qwort_int" },
+            { "platform": "youtube", "link": "https://www.youtube.com/@shadowtekmain"},
+            { "platform": "github", "link": "https://github.com/Tfarcenim" }
         ]
     }
 ]
@@ -86,23 +86,25 @@ export const currentMembers: CurrentMemberType[] = [
         ]
     },
     {
-        "name": "Omar",
-        "imageName": "elyasisly.jpg",
-        "roles": ["sound_artist", "animator"],
+        "name": "Brotat",
+        "imageName": "brotat.png",
+        //"bio": "Brotat is one of the team's main texture artists for the Project Nublar Mod. He works on both the dinosaurs and non dinosaur textures in order to make sure everything flows smoothly and the mod is released at a top notch quality.",
+        "roles": ["texture_artist"],
         "socials": [
-            { "platform": "discord", "link": "omar_tuareg" },
-            { "platform": "twitter", "link": "https://twitter.com/Ely27290042" },
-            { "platform": "github", "link": "https://github.com/Elysisy" }
+            { "platform": "discord", "link": "brotat" },
+            { "platform": "twitter", "link": "https://twitter.com/Sunking64" },
+            { "platform": "github", "link": "https://github.com/Brotatsun64" },
+            { "platform": "youtube", "link": "https://www.youtube.com/channel/UCGfffU8rEX43SmACBAFjUsQ" }
         ]
     },
     {
-        "name": "ShadowTekStudio",
-        "imageName": "shadowtek.jpg",
-        "roles": ["programmer"],
+        "name": "Hyper",
+        "imageName": "hyperion.png",
+        //"bio": "Hyper is one of the animators for DumbCode. He contributes to the lifelike movement of most of the animals from Project Nublar.",
+        "roles": ["animator"],
         "socials": [
-            { "platform": "discord", "link": "qwort_int" },
-            { "platform": "youtube", "link": "https://www.youtube.com/@shadowtekmain"},
-            { "platform": "github", "link": "https://github.com/Tfarcenim" }
+            { "platform": "discord", "link": "notthathyper" },
+            { "platform": "twitter", "link": "https://twitter.com/NotThatHyper" },
         ]
     }
 ]
