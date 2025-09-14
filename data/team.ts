@@ -76,16 +76,6 @@ export const primaryMembers: PrimaryMemberType[] = [
 
 export const currentMembers: CurrentMemberType[] = [
     {
-        "name": "Sindavar",
-        "imageName": "sindavar.png",
-        "roles": ["texture_artist", "modeler"],
-        "socials": [
-            { "platform": "discord", "link": "sindavar" },
-            { "platform": "twitter", "link": "https://twitter.com/sindavar33" },
-            { "platform": "github", "link": "https://github.com/Sindavar" },
-        ]
-    },
-    {
         "name": "Lucca",
         "imageName": "lucca.png",
         "roles": ["graphic_designer", "concept_artist"],
@@ -106,21 +96,13 @@ export const currentMembers: CurrentMemberType[] = [
         ]
     },
     {
-        "name": "Fred",
-        "imageName": "fred.png",
-        "roles": ["texture_artist"],
-        "socials": [
-            { "platform": "discord", "link": "fredleon" },
-            { "platform": "twitter", "link": "https://twitter.com/_ItzFred" },
-            { "platform": "github", "link": "https://github.com/ItzFred" }
-        ]
-    },
-    {
         "name": "ShadowTek",
         "imageName": "shadowtek.jpg",
         "roles": ["programmer"],
         "socials": [
-            { "platform": "discord", "link": "qwort_int" }
+            { "platform": "discord", "link": "qwort_int" },
+            { "platform": "youtube", "link": "https://www.youtube.com/@shadowtekmain"},
+            { "platform": "github", "link": "https://github.com/Tfarcenim" }
         ]
     }
 ]
@@ -213,6 +195,14 @@ export const pastMembers: PastMembersType[] = [
     {
         "name": "thebradqq",
         "imageName": "bbq.png"
+    },
+    {
+        "name": "Fred",
+        "imageName": "fred.png"
+    },
+    {
+        "name": "Sindavar",
+        "imageName": "sindavar.png"
     }
 ]
 
