@@ -69,7 +69,7 @@ export const primaryMembers: PrimaryMemberType[] = [
         "socials": [
             { "platform": "discord", "link": "qwort_int" },
             { "platform": "youtube", "link": "https://www.youtube.com/@shadowtekmain"},
-            { "platform": "github", "link": "https://github.com/Tfarcenim" }
+            { "platform": "github", "link": "https://github.com/AlexanderWhipp" }
         ]
     }
 ]
