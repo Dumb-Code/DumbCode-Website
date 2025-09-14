@@ -96,7 +96,7 @@ export const currentMembers: CurrentMemberType[] = [
         ]
     },
     {
-        "name": "ShadowTek",
+        "name": "ShadowTekStudio",
         "imageName": "shadowtek.jpg",
         "roles": ["programmer"],
         "socials": [
