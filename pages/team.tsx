@@ -14,7 +14,7 @@ const TeamPage = () => {
             <section className="w-screen bg-neutral-800 pt-10 overflow-hidden">
                 <div className="text-center lg:text-left my-10 lg:translate-x-44 w-full text-white">
                     <h1 className="text-6xl font-semibold">DumbCode Members</h1>
-                    <p className="font-semibold text-md text-neutral-500 ml-1">Our Amazing team of Current Contributors</p>
+                    <p className="font-semibold text-md text-neutral-500 ml-1">Our Amazing team of current and past contributors</p>
                 </div>
             </section>
             <div className="bg-neutral-800 sm:px-10 grid lg:grid-cols-2 2xl:grid-cols-3 grid-flow-row">
